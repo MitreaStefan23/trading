@@ -1,1 +1,1 @@
-# trading
+# Mitrea Stefan-trading
